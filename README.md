@@ -17,7 +17,7 @@ Good at:
 * C++
 * Bash
 
-Also worked with:
+Also work with:
 * C
 * Web front-end dev (HTML, CSS, JavaScript)
 * Java
