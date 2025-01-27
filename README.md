@@ -26,6 +26,7 @@ Also work with:
 ### Back-end:
 * Flask
 * FastAPI
+* Django
 * SQLAlchemy
 
 ### Software dev:
